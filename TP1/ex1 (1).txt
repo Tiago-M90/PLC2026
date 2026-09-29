@@ -1,7 +1,0 @@
-Exercício 1
-
-Objetivo:
-Construir uma expressão regular que reconheça strings binárias que não contenham a substring 011.
-
-Expressão regular:
-^1*(01?)*$
