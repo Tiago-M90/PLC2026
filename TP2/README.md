@@ -3,6 +3,7 @@
 ## Autor
 - Nome: Tiago Filipe Carvalho Moreira
 - ID: a110812
+- Foto: [foto](foto.jpg)
 
 ## Resumo
 
